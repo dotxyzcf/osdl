@@ -15,6 +15,7 @@ os_images_ordered=(
   "Debian 12"
   "Ubuntu Server 20.04"
   "Ubuntu Server 22.04"
+  "Ubuntu Server 24.04"
   "Alma Linux 8"
   "Alma Linux 9"
   "Rocky Linux 9"
